@@ -509,7 +509,7 @@ td.details-control{
 	display:none;
 }
 #redirect_url {
-	display:none;
+	/*display:none;*/
 }
 @media (max-width: 767px) {
 	.navbar-header {
